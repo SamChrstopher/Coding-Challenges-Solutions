@@ -1,9 +1,9 @@
-# Coding-Challenges-Solutions
+# Leetcode-Solutions
 **Welcome to my Coding Challenges and Problems GitHub repository! 💻**
 
 **Overview:**
 
-This repository serves as a collection of my solutions to coding challenges and problems from various platforms, including LeetCode, HackerRank, and more. It's a testament to my problem-solving skills, coding abilities, and continuous learning journey in the world of computer science and programming.
+This repository serves as a collection of my solutions to coding challenges and problems from LeetCode Platform. It's a testament to my problem-solving skills, coding abilities, and continuous learning journey in the world of computer science and programming.
 
 **Key Features:**
 
