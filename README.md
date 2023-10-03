@@ -19,7 +19,7 @@ Languages: I solve problems in different programming languages, showcasing versa
 
 **Platforms:**
 
-LeetCode, HackerRank, CodeSignal, Codeforces, Project Euler And more...
+LeetCode
 
 **Usage:**
 
